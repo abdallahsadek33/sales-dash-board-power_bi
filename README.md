@@ -124,17 +124,12 @@ Total Orders = DISTINCTCOUNT(FactSale[Invoice ID])
    - Visit [Microsoft Power BI](https://powerbi.microsoft.com/desktop/)
    - Install the application
 
-2. **Clone or Download This Repository**
-   ```bash
-   git clone https://github.com/yourusername/sales-dashboard-powerbi.git
-   ```
-
-3. **Open the Dashboard**
+2. **Open the Dashboard**
    - Launch Power BI Desktop
    - Open the `.pbix` file from the repository
    - Refresh data sources if needed
 
-4. **Update Data Connections** (if required)
+3. **Update Data Connections** (if required)
    - Go to Transform Data → Data Source Settings
    - Update file paths to your local data files
    - Apply changes and refresh
@@ -255,11 +250,8 @@ Have suggestions for improvement?
 
 ## 📧 Contact
 
-**Project Owner**: [Your Name]
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [Your LinkedIn Profile]
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
-
+**Project Owner**: [Abdallah sadek]
+- 📧 Email: Abdallahsadek150@gmail.com
 ---
 
 ## ⭐ Support
